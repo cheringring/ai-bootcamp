@@ -73,6 +73,10 @@ var functionCalingResponse = kernel.InvokePromptStreamingAsync(
 - 벡터 검색 결과를 표시한 후, 함수 호출 기능을 통해 AI 모델의 응답을 생성
 - 사용자 입력과 벡터 검색 결과를 함께 고려하여 더 정확한 응답 생성
 
+![image](https://github.com/user-attachments/assets/30e945ce-7362-4d2f-b097-c6446ab18bdd)
+![image](https://github.com/user-attachments/assets/f343a8ff-ad8d-49a9-acf5-a2e399d097f8)
+
+
 ### 모니터링 구현 (monitor.cs)
 
 ```csharp
