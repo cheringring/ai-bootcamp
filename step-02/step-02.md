@@ -103,6 +103,7 @@ public string BookTrain(int trainId)
    ```csharp
    var service = kernel.GetRequiredService<IChatCompletionService>();
    ```
+![image](https://github.com/user-attachments/assets/3eefe0ab-96a4-4e61-ae07-fd182863aab9)
 
 ## 멀티 에이전트 시나리오 예시
 
