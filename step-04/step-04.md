@@ -47,6 +47,9 @@ var searchResponse = await search.GetTextSearchResultsAsync(input, new TextSearc
 - **GetTextSearchResultsAsync**: 사용자 입력을 기반으로 벡터 검색을 수행하는 메서드
 - **TextSearchOptions**: 검색 옵션 설정 (상위 2개 결과 반환, 건너뛰기 없음)
 
+  <img src="![image](https://github.com/user-attachments/assets/9f0308ec-804f-4d76-bf06-5d730d29117b)">
+
+
 ### 함수 호출과 벡터 검색 통합 (vector-call.cs)
 
 ```csharp
