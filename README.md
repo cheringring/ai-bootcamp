@@ -1,3 +1,4 @@
+
 # AI Bootcamp: Semantic Kernel과 AI 오케스트레이션 실습
 
 이 레포지토리는 Semantic Kernel을 활용한 AI 오케스트레이션 실습 내용을 담고 있습니다. 각 단계별로 코드와 설명을 확인할 수 있습니다.
@@ -32,7 +33,7 @@
 
 ## 관련 자료
 
-- [Semantic Kernel 과 AI 오케스트레이션 : 실습 정리](https://velog.io/@cheringring/Semantic-Kernel-%EA%B3%BC-AI-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%8B%A4%EC%8A%B5-%EC%A0%95%EB%A6%AC) - 벨로그 포스팅
+- [Semantic Kernel 과 AI 오케스트레이션 : 실습 정리](https://velog.io/@cheringring/Semantic-Kernel-%EA%B3%BC-AI-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%8B%A4%EC%8A%B5-%EC%A0%95%EB%A6%AC) - 본인 벨로그 
 - [Semantic Kernel 공식 문서](https://learn.microsoft.com/ko-kr/semantic-kernel/overview/)
 - [Global AI Bootcamp](https://globalai.community/bootcamp/)
 
@@ -44,3 +45,20 @@
 - Azure OpenAI / GitHub Models
 - OpenTelemetry
 - .NET Aspire
+
+
+## 참고 문서
+
+```
+/**
+ * @author cheringring
+ * @see https://velog.io/@cheringring/Semantic-Kernel-%EA%B3%BC-AI-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%8B%A4%EC%8A%B5-%EC%A0%95%EB%A6%AC
+ * @description 이 레포지토리는 위 벨로그 포스팅의 내용을 기반으로 작성되었습니다.
+ * Global AI Bootcamp에서 진행한 Semantic Kernel 실습 내용을 정리하고 각 단계별로 코드 리뷰와 
+ * 주요 개념을 설명합니다.
+ */
+```
+
+## 라이센스
+
+MIT
