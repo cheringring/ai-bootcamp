@@ -74,6 +74,9 @@ var responseGoogle = kernel.InvokePromptStreamingAsync(
 - **KernelArguments**: 프롬프트 실행 시 필요한 인자 설정
 - **PromptExecutionSettings**: 프롬프트 실행 관련 설정 (어떤 서비스를 사용할지 지정)
 
+![image](https://github.com/user-attachments/assets/85d84901-51c5-4f83-8821-9b52b572e0e2)
+
+
 ## 실습 과정
 
 1. Semantic Kernel SDK 추가하기
