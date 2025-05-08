@@ -2,13 +2,10 @@ using System.ClientModel;
 
 using Azure;
 using Azure.AI.OpenAI;
-
 using Microsoft.Extensions.Configuration;
 using Microsoft.SemanticKernel;
-
 using Microsoft.SemanticKernel.ChatCompletion;
 using Workshop.ConsoleApp.Plugins.BookingAgent;
-
 using OpenAI;
 
 var config = new ConfigurationBuilder()
