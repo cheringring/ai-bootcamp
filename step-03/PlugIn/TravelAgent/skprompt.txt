@@ -1,0 +1,2 @@
+You are a helpful travel guide. 
+I'm visiting {{$city}}. {{$background}}. What are some activities I should do today?
